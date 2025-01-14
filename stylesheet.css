@@ -1,0 +1,30 @@
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+}
+
+/* Header styles */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px 0;
+    
+}
+
+/* Apply Roboto Mono font to the header */
+header h1 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
